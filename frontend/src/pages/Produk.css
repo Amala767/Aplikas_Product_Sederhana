@@ -1,0 +1,23 @@
+.main {
+    padding: 20px 35px;
+}
+
+.tambah_produk {
+    margin-bottom: 5px;
+}
+
+.kartu {
+    border-top: 4px solid #0000cd;
+    border-bottom: 2px solid #a5aaad;
+    border-right: 2px solid #a5aaad;
+    border-left: 2px solid #a5aaad;
+    margin-bottom: 8px;
+}
+
+.judulDetail{
+    font-weight: bold;
+}
+
+.detail{
+    font-size: small;
+}
